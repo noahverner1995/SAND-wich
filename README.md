@@ -3,7 +3,7 @@
     <img src="Logo/SAND-wich_icon_720.png"/>
 </p>
 <br>
-<p align="center"><em>NFTs are just pixelated Sandwiches! <b>#ProveMeWrong</b></em><p
+<p align="center"><em>NFTs are just pixelated sandwiches! <b>#ProveMeWrong</b></em><p
 <br>
 
 ## Overview
