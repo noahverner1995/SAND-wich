@@ -22,18 +22,35 @@ I'm glad to introduce **SAND-wich** 🥪 to you!
   
 It's an open-source software built on Python that aims to help both new and well-experienced artists in the making of NFT collections.
   
-It is capable of merging any number of layers following an specific order, and export every single result to a folder as an independent file and also a dataframe that contains the NFTs metadata used in the process.
+It is capable of merging any number of layers following an specific order (provided by you), and export every single result to a folder as an independent file and also a dataframe that contains the NFTs metadata used in the process.
  
 By using **SAND-wich**, you are making your work more productive and organized because of the nature of applying **Automation and Standarization** to your Art. 
 🗿  
 
   - **Technology stack**: Python 3.9.6 [MSC v.1929 64 bit (AMD64)], Pandas 1.3.1, Itertools, PIL 8.4.0.
   - **Status**:  0.1.0
-  - **Executable**: https://github.com/noahverner1995/SAND-wich/tree/main/exe
+  - **Executable**: https://github.com/noahverner1995/SAND-wich/blob/main/exe/SAND-wich.exe
   - **What makes this software different from others?** The ease of use and the brand concept behind it.
 
 ## Installation
 
 **If you are a developer**, you will first have to have installed `Python 3.9.6` or later with the following dependencies: `Pandas 1.3.1` or later, `Itertools`, `PIL 8.4.0` or later. Then you can copy the code from the `SAND-wich.py` file and run it in your preferred environment.
     
-**If you ARE NOT a developer**, you will first have to deactivate your Antivirus for then <a href ="https://github.com/noahverner1995/SAND-wich/tree/main/exe">downloading the exe file</a>. Then you can execute the program by clicking on it and pressing ↵ Enter.
+**If you ARE NOT a developer**, you will first have to deactivate your Antivirus for then <a href ="https://github.com/noahverner1995/SAND-wich/blob/main/exe/SAND-wich.exe">downloading the exe file</a>. Then you can execute the program by clicking on it and pressing ↵ Enter.
+
+## Usage
+
+First of all, you need to make sure that you already have an ***Standardized NFT Model*** made with **Adobe Photoshop**, such as this one down below:
+
+<p align="center">
+    <img src="Sample/GIF/Sample_gif.gif"/>
+</p>
+<p align="center"><b>Download this Standardized NFT Model</b><a  href ="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Sample.psd"> <b>HERE 👀</b></a></p>
+<br>
+
+Then, you open that model using **Adobe Photoshop**, then select the `Zoom` 🔍 tool, then move your mouse over the icon in the center of your screen, and then hold down `Left-Click` until it's big enough, then you will see something like this:
+
+
+
+
+
