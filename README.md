@@ -31,3 +31,9 @@ By using **SAND-wich**, you are making your work more productive and organized b
   - **Status**:  0.1.0
   - **Executable**: https://github.com/noahverner1995/SAND-wich/tree/main/exe
   - **What makes this software different from others?** The ease of use and the brand concept behind it.
+
+## Installation
+
+**If you are a developer**, you will first have to have installed `Python 3.9.6` or later with the following dependencies: `Pandas 1.3.1` or later, `Itertools`, `PIL 8.4.0` or later. Then you can copy the code from the `SAND-wich.py` file and run it in your preferred environment.
+    
+**If you ARE NOT a developer**, you will first have to deactivate your Antivirus for then <a href ="https://github.com/noahverner1995/SAND-wich/tree/main/exe">downloading the exe file</a>. Then you can execute the program by clicking on it and pressing ↵ Enter.
