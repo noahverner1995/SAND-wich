@@ -116,7 +116,7 @@ Then it will ask you if you want to add `'None'` as value in one or several fold
 
 If you don't want to do this, just type `n` and press ↵Enter.
 
-Else, you type `y` and press ↵Enter, and then type the name of the folder (key) in which you want to have `'None'` as value and press ↵Enter, it will ask you again if you want to add another one or not, you decide from there.
+Else, you type `y` and press ↵Enter, and then type the name of the folder (key) in which you want to add `'None'` as value and press ↵Enter, it will ask you again if you want to add another one or not, you decide from there.
 
 <p align="center">
     <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/010.png"/>
