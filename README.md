@@ -112,7 +112,7 @@ Then press ↵Enter:
 
 `SAND-wich` will print first the name of the folders (in purple) together with its corresponding files (in light blue) from the `path` you passed as input, then it will print a dictionary (which is a data structure) that contains the all the previous information inside.
 
-Then it will ask you if you want to add `'None'` as value in one or several folders (keys) of the dictionary, this will be useful if you want to create an NFT collection with some series of images that won't have a particular feature.
+Then it will ask you if you want to add `'None'` as value in one or several folders (keys) of the dictionary, **this will be useful if you want to create an NFT collection with some series of images without a particular feature**.
 
 If you don't want to do this, just type `n` and press ↵Enter.
 
@@ -126,3 +126,59 @@ All right, this part explains why this project was named as `SAND-wich` (*sort o
 ><em><h4>*A sanwdich 🥪 is an orderly sequence of elements, that usually starts and finishes with a slice of bread 🍞*.</h4></em>
 
 Just like a sandwich, the creation of your NFTs must follow an specific order to be created, otherwise `SAND-wich` may export **abominations** 🧟. 
+
+In this particular case, the order will be the following: **Background, Body_format, Colour, Extra**
+
+<p align="center">
+    <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/011.png"/>
+</p>
+<p align="center"><em>Make sure to type each folder name right for then pressing ↵Enter. <b>Otherwhise, you will have to try again</b></em></p>
+
+Once you have set the order, `SAND-wich` will print a message (in purple) confirming the order has been set, and then will print a dataframe that will contain the **NFTs Metadata**
+
+<p align="center">
+    <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/012.png"/>
+</p>
+
+Then, it will ask you for a folder name, in this case it was chosen **'Sample'**:
+
+<p align="center">
+    <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/013.png"/>
+</p>
+
+And then ↵Enter was pressed:
+
+<p align="center">
+    <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/014.png"/>
+</p>
+
+Now, it will ask you for an **integer number** that will used for enlarging each one of final pictures.
+
+*ProTip: the reason for this is because when you work with **Pixelart**, it's better to make your layers in very low resolutions (usually a width and height less than 50p) **unless you are a Pro of course**, then what you do is to export the final result with a resolution several times bigger than the original one.* 
+
+In case you just don't want to enlarge the final result, just type `1` as input and press ↵Enter, otherwise type a bigger integer number:
+<p align="center">
+    <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/015.png"/>
+</p>
+
+And press ↵Enter.
+
+`SAND-wich` will now apply the <a href ="https://www.sciencedirect.com/topics/computer-science/cartesian-product">Cartesian Product</a>, and will export every single result to the folder `Sample` located at the initial `path` you had set:
+
+<p align="center">
+    <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/016.png"/>
+</p>
+
+Then, `SAND-wich` will say bye-bye and terminate itself after a few seconds.
+
+Now, you will go back to the initial `path` you had set, you will see a folder new folder named **'Sample'**:
+
+<p align="center">
+    <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/017.png"/>
+</p>
+
+Then you will open that folder to see results and hooray! 🙌 IT'S DONE:
+
+<p align="center">
+    <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/018.png"/>
+</p>
