@@ -3,7 +3,7 @@
     <img src="Logo/SAND-wich_icon_720.png"/>
 </p>
 <br>
-<p align="center"><em>NFTs are just pixelated sandwiches! <b>#ProveMeWrong</b></em><p
+<p align="center"><em>NFTs are just pixelated sandwiches! <b>#ProveMeWrong</b></em></p>
 <br>
 
 ## Overview
@@ -17,7 +17,8 @@ If you have, well, the short answer is by applying <a href ="https://www.lightho
 Now, if you are wondering:
   
   ><em><h3>Oh nice! How do I do that? I'm just starting... 🤷‍♂️</h3></em> 
-  
+  ![002](https://user-images.githubusercontent.com/83596569/148016194-f9cea5d2-20b8-42b4-aa28-cc24fa2272d6.png)
+
 I'm glad to introduce **SAND-wich** 🥪 to you!
   
 It's an open-source software built on Python that aims to help both new and well-experienced artists in the making of NFT collections.
@@ -50,7 +51,33 @@ First of all, you need to make sure that you already have an ***Standardized NFT
 
 Then, you open that model using **Adobe Photoshop**, then select the `Zoom` 🔍 tool, then move your mouse over the icon in the center of your screen, and then hold down `Left-Click` until it's big enough, then you will see something like this:
 
+<p align="center">
+    <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/001.png"/>
+</p>
 
+All right, now you will create the following folders at your desired `path`:
 
+<p align="center">
+    <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/002.png"/>
+</p>
+<p align="center"><em>Make sure to name these folders with the same</em></p>
+<p align="center"><em>name of the layer groups, respectively!</em></p>
+<p align="center"><em><b>#KeepItOrganized</b></em></p>
+<br>
 
+Then, you will hide all the layers in the `.psd` except one, such as `Yellow` in this case:
 
+<p align="center">
+    <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/003.png"/>
+</p>
+
+Then, you will `export` as `.png`  that layer to the corresponding folder (`Background`, in this case) at the `path` you set:
+<p align="center">
+    <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/004.png"/>
+</p>
+<p align="center"><em>Again, make sure to name these files with the same</em></p>
+<p align="center"><em>name of the layers, respectively!</em></p>
+<p align="center"><em><b>#KeepItOrganized</b></em></p>
+<br>
+
+You will repeat the previous process with every single layer, individually. Once done, you will execute `SAND-wich.exe`
