@@ -79,4 +79,23 @@ Then, you will `export` as `.png`  that layer to the corresponding folder (`Back
 <p align="center"><em><b>#KeepItOrganized</b></em></p>
 <br>
 
-You will repeat the previous process with every single layer, individually. Once done, you will execute `SAND-wich.exe` by selecting it with `Left-Click` and pressing ↵ Enter
+You will repeat the previous process with every single layer, individually. Once done, you will execute `SAND-wich.exe` by selecting it with `Left-Click` and pressing ↵ Enter:
+<p align="center">
+    <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/005.png"/>
+</p>
+<p align="center"><em>Remember to have your antivirus deactivated when doing so</em></p>
+<p align="center"><em>Otherwise, this won't work as expected. 🧐</em></p>
+
+It will display the following program:
+
+<p align="center">
+    <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/006.png"/>
+</p>
+
+Now you will copy the `path` at where your exported layers are located:
+
+<p align="center">
+    <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/007.png"/>
+</p>
+
+
