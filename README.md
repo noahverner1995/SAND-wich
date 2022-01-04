@@ -17,7 +17,6 @@ If you have, well, the short answer is by applying <a href ="https://www.lightho
 Now, if you are wondering:
   
   ><em><h3>Oh nice! How do I do that? I'm just starting... 🤷‍♂️</h3></em> 
-  ![002](https://user-images.githubusercontent.com/83596569/148016194-f9cea5d2-20b8-42b4-aa28-cc24fa2272d6.png)
 
 I'm glad to introduce **SAND-wich** 🥪 to you!
   
@@ -80,4 +79,4 @@ Then, you will `export` as `.png`  that layer to the corresponding folder (`Back
 <p align="center"><em><b>#KeepItOrganized</b></em></p>
 <br>
 
-You will repeat the previous process with every single layer, individually. Once done, you will execute `SAND-wich.exe`
+You will repeat the previous process with every single layer, individually. Once done, you will execute `SAND-wich.exe` by selecting it with `Left-Click` and pressing ↵ Enter
