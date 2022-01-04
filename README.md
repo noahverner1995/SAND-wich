@@ -36,7 +36,7 @@ By using **SAND-wich**, you are making your work more productive and organized b
 
 **If you are a developer**, you will first have to have installed `Python 3.9.6` or later with the following dependencies: `Pandas 1.3.1` or later, `Itertools`, `PIL 8.4.0` or later. Then you can copy the code from the `SAND-wich.py` file and run it in your preferred environment.
     
-**If you ARE NOT a developer**, you will first have to deactivate your Antivirus for then <a href ="https://github.com/noahverner1995/SAND-wich/blob/main/exe/SAND-wich.exe">downloading the exe file</a>. Then you can execute the program by clicking on it and pressing ↵ Enter.
+**If you ARE NOT a developer**, you will first have to deactivate your Antivirus for then <a href ="https://github.com/noahverner1995/SAND-wich/blob/main/exe/SAND-wich.exe">downloading the exe file</a>. Then you can execute the program by clicking on it and pressing ↵Enter.
 
 ## Usage
 
@@ -79,7 +79,7 @@ Then, you will `export` as `.png`  that layer to the corresponding folder (`Back
 <p align="center"><em><b>#KeepItOrganized</b></em></p>
 <br>
 
-You will repeat the previous process with every single layer, individually. Once done, you will execute `SAND-wich.exe` by selecting it with `Left-Click` and pressing ↵ Enter:
+You will repeat the previous process with every single layer, individually. Once done, you will execute `SAND-wich.exe` by selecting it with `Left-Click` and pressing ↵Enter:
 <p align="center">
     <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/005.png"/>
 </p>
@@ -98,4 +98,29 @@ Now you will copy the `path` at where your exported layers are located:
     <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/007.png"/>
 </p>
 
+And paste into the `SAND-wich.exe` input:
 
+<p align="center">
+    <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/008.png"/>
+</p>
+
+Then press ↵Enter:
+
+<p align="center">
+    <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/009.png"/>
+</p>
+
+The program will print first the name of the folders (in purple) together with its corresponding files (in light blue) from the `path` you passed as input, then it will print a dictionary (which is a data structure) that contains the all the previous information inside.
+
+Then it will ask you if you want to add 'None' as value in one or several folders (keys) of the dictionary, this will be useful if you want to create an NFT collection with some series of images that won't have a particular feature. If you don't want to do this, just type `n` and press ↵Enter, else, you type `y` and press ↵Enter, and then type the name of the folder (key) in which you want to have 'None' as value and press ↵Enter, it will ask you again if you want to add another one or not, you decide from there.
+
+<p align="center">
+    <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/010.png"/>
+</p>
+
+All right, this part explains why this project was named as `SAND-wich` (*sort of*). 😉
+<br>
+<br>
+A sanwdich 🥪 is an orderly sequence of elements, that usually starts and finishes with a slice of bread 🍞.
+<br>
+Just like a sandwich, the creation of your NFTs must follow an specific order to be created, otherwise `SAND-wich` may export **abominations** 🧟. 
