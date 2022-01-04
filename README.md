@@ -110,17 +110,19 @@ Then press ↵Enter:
     <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/009.png"/>
 </p>
 
-The program will print first the name of the folders (in purple) together with its corresponding files (in light blue) from the `path` you passed as input, then it will print a dictionary (which is a data structure) that contains the all the previous information inside.
+`SAND-wich` will print first the name of the folders (in purple) together with its corresponding files (in light blue) from the `path` you passed as input, then it will print a dictionary (which is a data structure) that contains the all the previous information inside.
 
-Then it will ask you if you want to add 'None' as value in one or several folders (keys) of the dictionary, this will be useful if you want to create an NFT collection with some series of images that won't have a particular feature. If you don't want to do this, just type `n` and press ↵Enter, else, you type `y` and press ↵Enter, and then type the name of the folder (key) in which you want to have 'None' as value and press ↵Enter, it will ask you again if you want to add another one or not, you decide from there.
+Then it will ask you if you want to add `'None'` as value in one or several folders (keys) of the dictionary, this will be useful if you want to create an NFT collection with some series of images that won't have a particular feature.
+
+If you don't want to do this, just type `n` and press ↵Enter.
+
+Else, you type `y` and press ↵Enter, and then type the name of the folder (key) in which you want to have `'None'` as value and press ↵Enter, it will ask you again if you want to add another one or not, you decide from there.
 
 <p align="center">
     <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/010.png"/>
 </p>
 
 All right, this part explains why this project was named as `SAND-wich` (*sort of*). 😉
-<br>
-<br>
-A sanwdich 🥪 is an orderly sequence of elements, that usually starts and finishes with a slice of bread 🍞.
-<br>
+><em><h4>*A sanwdich 🥪 is an orderly sequence of elements, that usually starts and finishes with a slice of bread 🍞*.</h4></em>
+
 Just like a sandwich, the creation of your NFTs must follow an specific order to be created, otherwise `SAND-wich` may export **abominations** 🧟. 
