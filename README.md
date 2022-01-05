@@ -187,6 +187,14 @@ Then you will open that folder to see results and hooray! 🙌 IT'S DONE:
 
 If you have questions, concerns, bug reports, etc, please file an issue in <a href ="https://github.com/noahverner1995/SAND-wich/issues">this repository's Issue Tracker</a>. 
 
+## Getting involved
+
+At the moment, just make sure to follow us on our social networks to keep well informed about more developments like this one, and drop some 💓, 🔁, and 👏:
+
+• Twitter 🐦: https://twitter.com/cryptobote
+<br>
+• Medium 📰: https://medium.com/@cryptobote
+
 ## Credits and references
 
 1. <a href ="https://www.youtube.com/watch?v=hvy9msjJdMs">Techmaker Workshop | How to Combine Images in Python with Pillow</a>
