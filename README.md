@@ -152,9 +152,9 @@ And then ↵Enter was pressed:
     <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/014.png"/>
 </p>
 
-Now, it will ask you for an **integer number** that will used for enlarging each one of final pictures.
+Now, it will ask you for an **integer number** that will used for enlarging each one of the final pictures.
 
-*ProTip: the reason for this is because when you work with **Pixelart**, it's better to make your layers in very low resolutions (usually a width and height less than 50p) **unless you are a Pro of course**, then what you do is to export the final result with a resolution several times bigger than the original one.* 
+*ProTip: the reason for this is because when you work with **Pixel art**, it's better to make your layers in very low resolutions (usually a width and height less than 50p) **unless you are a Pro of course**, then what you do is to export the final result with a resolution several times bigger than the original one.* 
 
 In case you just don't want to enlarge the final result, just type `1` as input and press ↵Enter, otherwise type a bigger integer number:
 <p align="center">
