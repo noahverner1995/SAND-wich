@@ -185,7 +185,7 @@ Then you will open that folder to see results and hooray! 🙌 IT'S DONE:
 
 ## Getting help
 
-If you have questions, concerns, bug reports, etc, please file an issue in this repository's Issue Tracker.
+If you have questions, concerns, bug reports, etc, please file an issue in <a href ="https://github.com/noahverner1995/SAND-wich/issues">this repository's Issue Tracker</a>. 
 
 ## Credits and references
 
