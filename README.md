@@ -163,7 +163,7 @@ In case you just don't want to enlarge the final result, just type `1` as input 
 
 And press ↵Enter.
 
-`SAND-wich` will now apply the <a href ="https://www.sciencedirect.com/topics/computer-science/cartesian-product">Cartesian Product</a>, and will export every single result to the folder `Sample` located at the initial `path` you had set:
+`SAND-wich` will now apply the <a href ="https://www.sciencedirect.com/topics/computer-science/cartesian-product">Cartesian Product</a>, and will export every single result and the dataframe to the folder `Sample` located at the initial `path` you had set:
 
 <p align="center">
     <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/016.png"/>
@@ -182,3 +182,12 @@ Then you will open that folder to see results and hooray! 🙌 IT'S DONE:
 <p align="center">
     <img src="https://github.com/noahverner1995/SAND-wich/blob/main/Sample/Step%20by%20Step%20SCREENSHOTS/018.png"/>
 </p>
+
+## Getting help
+
+If you have questions, concerns, bug reports, etc, please file an issue in this repository's Issue Tracker.
+
+## Credits and references
+
+1. <a href ="https://www.youtube.com/watch?v=hvy9msjJdMs">Techmaker Workshop | How to Combine Images in Python with Pillow</a>
+2. <a href ="https://medium.com/coinmonks/creating-generative-art-nfts-with-python-solidity-a95eaeea515e">Generative Art NFTs with Python and Solidity</a>
