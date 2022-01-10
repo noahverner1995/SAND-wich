@@ -115,12 +115,16 @@ print('The following "keys" represent the name of the folders in the current pat
 while True:
     AllKeysNames = the_dictionary_list.keys()
     print('\033[46m'+str(AllKeysNames)+'\033[0m')
-    ele = input("\033[0;37;40mNow It's time to define the order in which the Permutations will be made, tell me which valid key you want me to set now:\033[0m ")
+    ele = input("\033[0;37;40mNow It's time to define the order in which the Cartesian Products will be made, tell me which valid key you want me to set now:\033[0m ")
     if ele in the_dictionary_list and ele not in Keys_input:
         Keys_input.append(ele) # adding the element
         i += 1
         print(f'\033[0;37;42mThe array has been updated, its current storage is the following {Keys_input}\033[0m')
-        if i == n:
+        if i == (n-1):
+            for key in the_dictionary_list:
+                if key not in Keys_input:
+                    Keys_input.append(key)
+                    print(f'\033[0;37;42mLet me add the last key, the final storage is the following {Keys_input}\033[0m')
             print("\u001b[45mThe array is now full, let's continue with the next step\033[0m")
             break
     else:
@@ -176,8 +180,10 @@ for i, per in df.iterrows():
     result_image.save(f"{final_path}/{i}.png")
 time.sleep(0.3)
 print('\n')
+res = pd.concat([df.Permutations.str.split('+', expand=True), df.FilePermutations.str.split('+', expand=True)], axis=1).replace({'_': ' ', '.png': ''}, regex=True) #Change the Metadata format
+res.sort_index(axis=1, inplace=True)
 print(f'Exporting {folder_name}_NFTs_Metadata.csv to: {final_path}')
-df.to_csv(f'{final_path}/{folder_name}_NFTs_Metadata.csv')
+res.to_csv(f'{final_path}/{folder_name}_NFTs_Metadata.csv')
 time.sleep(0.1)
 print('\n')
 print('\033[0;37;42mAll done!, Thank you for using SAND-wich, built by @NoahVerner, see you next time :)\033[0m')
