@@ -189,11 +189,13 @@ If you have questions, concerns, bug reports, etc, please file an issue in <a hr
 
 ## Getting involved
 
-At the moment, just make sure to follow us on our social networks to keep well informed about more developments like this one, and drop some 💓, 🔁, and 👏:
+You can follow us on our social networks to keep well informed about more developments like this one, and drop some 💓, 🔁, and 👏:
 
 • Twitter 🐦: https://twitter.com/cryptobote
 <br>
 • Medium 📰: https://medium.com/@cryptobote
+
+💚 **You can also support us by purchasing at least one NFT from <a href="https://opensea.io/noahverner?tab=created_collections">these collections</a>** 💚
 
 ## Credits and references
 
